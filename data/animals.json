@@ -117,6 +117,18 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Pingu",
+      "species": "Penguin",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
